@@ -1,0 +1,6 @@
+StandartRoom,101,1,200.0,2,true,Queen,Garden
+StandartRoom,102,1,210.0,1,false,King,City
+DeluxeRoom,201,2,240.0,2,true,Panoramic,Premium,0
+StandartRoom,103,1,250.0,1,true,King,Garden
+DeluxeRoom,206,3,400.0,2,false,Private,Premium,3
+StandartRoom,111,1,100.0,1,true,Queen,City

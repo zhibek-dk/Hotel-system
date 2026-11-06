@@ -1,0 +1,7 @@
+1,4,103,2,12.04,300.0,Card,Cancelled
+2,5,102,1,12.09,200.0,Cash,Processed
+3,6,103,1,12,200.0,Card,Cancelled
+4,7,206,1,1,400.0,Cash,Processed
+5,8,101,2,12.06,300.0,Card,Cancelled
+6,9,111,1,14,200.0,Card,Cancelled
+7,10,201,3,13,1000.0,Cash,Cancelled
